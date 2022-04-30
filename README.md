@@ -76,7 +76,7 @@
 ### Deleting a game
 ` DELETE /game/id`
 
-# REQUEST
+# RESPONSE
 ``` 
    OK
 
