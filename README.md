@@ -6,7 +6,7 @@
 2. and add server ip in database.js file with user and password
 3. the database timezone is set to "-03:00", so feel free to modify
 4. before starting the project, make sure you have created the database with the name games, you can change it in the database.js file if necessary
-5. 
+5. Create an environment variable to use JWT authentication
 ```
 ### STARTING THE PROJECT
 ```
